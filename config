@@ -1,0 +1,10 @@
+[DEFAULT]
+user=ocid1.user.oc1..ZZZZZZZZzzzzzzzzzzz
+fingerprint=b7:37:75:61:ZZZZzzz
+key_file=/home/user/path/to/.oci/oci_api_key.pem
+pass_phrase=Passworld123
+tenancy=ocid1.tenancy.oc1..ZZZZZZZZZZZZzzzzzzzzzzz
+region=us-phoenix-1
+compartment_id=ocid1.comZZZZZZZzzzzzzzzz
+file=./email_file.csv
+delimited=,
