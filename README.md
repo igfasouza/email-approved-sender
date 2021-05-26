@@ -27,7 +27,7 @@ python3 createsenderfile.py
 
 4. The second example "createsenderemail.py" adds one email and expects an email as a parameter. Replace "user1@test.com" with the email that you want to add.
 ```
-python3 createsenderwithemail.py user1@test.com
+python3 createsenderemail.py user1@test.com
 ```
 
 ## Rest API
