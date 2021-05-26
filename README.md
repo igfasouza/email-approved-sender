@@ -2,7 +2,7 @@
 
 This is a repository for OCI sample code to add an email approved sender. Both solutions share the same "config" file 
 
-- Add multiple approved senders from a file createsenderfile.py The program, reads a "file.txt" or "file.csv" containing a list of email addresses. For each email address in the file, an approved sender address is configured in OCI tenancy's region and compartment.  
+- Add multiple approved senders from a file by using createsenderfile.py The program, reads a "file.txt" or "file.csv" containing a list of email addresses. For each email address in the file, an approved sender address is configured in OCI tenancy's region and compartment.  
 
 - Add a single approved sender by using createsenderwithemail.py and defining the approved sender address to be configured in the OCI tenancy's region and compartment.
 
